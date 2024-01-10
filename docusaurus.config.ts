@@ -3,7 +3,7 @@ import type {Config} from '@docusaurus/types';
 import type * as Preset from '@docusaurus/preset-classic';
 
 const config: Config = {
-  title: 'tatodesk',
+  title: 'Documentação tatoDESK',
   tagline: 'Plataforma de Atendimento',
   favicon: 'img/logo_tatodesk.ico',
 
@@ -56,12 +56,11 @@ const config: Config = {
 
   themeConfig: {
     // Replace with your project's social card
-    image: 'img/logo_tatodesk.jpg',
+    image: 'img/tato_logo.png',
     navbar: {
-      title: 'Tatodesk',
       logo: {
         alt: 'tatodesk logo',
-        src: 'img/logo_tatodesk.jpg',
+        src: 'img/tato_logo.png',
       },
       items: [
         {

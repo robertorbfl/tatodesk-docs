@@ -10,11 +10,11 @@ type FeatureItem = {
 
 const FeatureList: FeatureItem[] = [
   {
-    title: 'tatodesk',
-    imageUrl: 'https://tatodeskv2.consensotec.com.br/assets/img/img01-welcome.jpg',
+    title: 'Newsletter',
+    imageUrl: 'https://tatodeskv2.consensotec.com.br/assets/img/tadeu.png',
     description: (
       <>
-        tatodesk: Simplificando o atendimento e relacionamento com os clientes
+        Customer Experience no Setor Público
       </>
     ),
   },
@@ -29,7 +29,7 @@ const FeatureList: FeatureItem[] = [
   },
   {
     title: 'Canais',
-    imageUrl: 'https://tatodeskv2.consensotec.com.br/assets/img/img01-welcome.jpg',
+    imageUrl: 'https://sofiamacedo.com/wp-content/uploads/2018/01/redes-sociais-gratis-mais-usadas.jpg',
     description: (
       <>
         Visite nossas redes sociais!
