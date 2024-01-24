@@ -15,7 +15,7 @@ const config: Config = {
   // If you aren't using GitHub pages, you don't need these.
   organizationName: 'robertorbfl', // Usually your GitHub org/user name.
   projectName: 'tatodesk-docs', // Usually your repo name.
-  deploymentBranch: 'master',
+  deploymentBranch: 'gh-pages',
 
   onBrokenLinks: 'throw',
   onBrokenMarkdownLinks: 'warn',
